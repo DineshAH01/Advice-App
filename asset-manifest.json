@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Advice-App/static/css/main.9255a6c2.css",
+    "main.js": "/Advice-App/static/js/main.a91b228c.js",
+    "index.html": "/Advice-App/index.html",
+    "main.9255a6c2.css.map": "/Advice-App/static/css/main.9255a6c2.css.map",
+    "main.a91b228c.js.map": "/Advice-App/static/js/main.a91b228c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9255a6c2.css",
+    "static/js/main.a91b228c.js"
+  ]
+}
